@@ -1,0 +1,26 @@
+C:\Users\dev\Desktop\Nova pasta\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\dev\Desktop\Nova pasta\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\dev\Desktop\Nova pasta\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\dev\Desktop\Nova pasta\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Nova pasta\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\dev\Desktop\Nova pasta\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\dev\Desktop\Nova pasta\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Nova pasta\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Nova pasta\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\dev\Desktop\Nova pasta\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Nova pasta\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\dev\Desktop\Nova pasta\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\dev\Desktop\Nova pasta\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Interfaces_POO\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Interfaces_POO\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Interfaces_POO\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Interfaces_POO\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Interfaces_POO\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Interfaces_POO\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Interfaces_POO\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Interfaces_POO\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Interfaces_POO\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Interfaces_POO\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Interfaces_POO\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Interfaces_POO\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Interfaces_POO\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
