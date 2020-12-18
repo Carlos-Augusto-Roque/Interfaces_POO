@@ -25,11 +25,14 @@ namespace Interfaces
             p3.Preco = 900000;
 
             carrinho.Cadastrar(p1);
-            carrinho.Listar();
             carrinho.Cadastrar(p2);
+            carrinho.Cadastrar(p3);
+            carrinho.Listar();
 
             Console.ForegroundColor = ConsoleColor.Blue;
             carrinho.Alterar(p1.Codigo,p3);
+            System.Console.WriteLine("Lista alterada:");
+            carrinho.Listar();
             Console.ResetColor();
 
         }
